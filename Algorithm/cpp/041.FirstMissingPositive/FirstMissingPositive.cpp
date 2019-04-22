@@ -3,11 +3,19 @@
 
 using namespace std;
 /*
+    We could leverage the solution of 448.
+    Find All Disappeared Numbers. If there were
+    N numbers in the vector, the result must be
+    1 ~ N + 1. Therefore we could operate on
+    the original array. We marked number not in
+    [1, N] as N + 1, a number that is not in
+    this range.
     For each number i in nums,
     we mark the number that i points as negative.
-    Then we filter the list, get all the indexes
+    Then we filter the list, get the first index
     who points to a positive number.
-    Since those indexes are not visited.
+    Since that index is not visited and is the
+    first missing positive number.
 */
 class Solution{
 public:
