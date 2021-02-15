@@ -33,9 +33,10 @@
 
 ## 2. 剑指Offer
 
-| ID   | Title                                                        | C++                                                 |
-| ---- | ------------------------------------------------------------ | --------------------------------------------------- |
-| 04   | [二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | [C++](./lcof/04.二维数组中的查找/Search2dArray.cpp) |
-| 07   | [重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/) | [C++](./lcof/07.重建二叉树/RebuildBinaryTree.cpp)   |
-| 12   | [矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/) | [C++](./lcof/12.矩阵中的路径/PathInMatrix.cpp)      |
+| ID   | Title                                                        | C++                                                  |
+| ---- | ------------------------------------------------------------ | ---------------------------------------------------- |
+| 04   | [二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | [C++](./lcof/04.二维数组中的查找/Search2dArray.cpp)  |
+| 07   | [重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/) | [C++](./lcof/07.重建二叉树/RebuildBinaryTree.cpp)    |
+| 12   | [矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/) | [C++](./lcof/12.矩阵中的路径/PathInMatrix.cpp)       |
+| 13   | [机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | [C++](./lcof/13.机器人的运动范围/RobotMoveRange.cpp) |
 
