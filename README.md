@@ -37,4 +37,5 @@
 | ---- | ------------------------------------------------------------ | --------------------------------------------------- |
 | 04   | [二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | [C++](./lcof/04.二维数组中的查找/Search2dArray.cpp) |
 | 07   | [重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/) | [C++](./lcof/07.重建二叉树/RebuildBinaryTree.cpp)   |
+| 12   | [矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/) | [C++](./lcof/12.矩阵中的路径/PathInMatrix.cpp)      |
 
