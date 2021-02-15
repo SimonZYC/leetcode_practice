@@ -39,4 +39,5 @@
 | 07   | [重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/) | [C++](./lcof/07.重建二叉树/RebuildBinaryTree.cpp)    |
 | 12   | [矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/) | [C++](./lcof/12.矩阵中的路径/PathInMatrix.cpp)       |
 | 13   | [机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | [C++](./lcof/13.机器人的运动范围/RobotMoveRange.cpp) |
+| 14   | [剪绳子I](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) | [C++](./lcof/14.剪绳子I/CutRopeI.cpp)                |
 
