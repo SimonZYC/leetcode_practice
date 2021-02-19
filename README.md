@@ -35,6 +35,8 @@
 
 ## 2. 剑指Offer
 
+[leetcode lcof](https://leetcode-cn.com/problemset/lcof/)
+
 | ID   | Title                                                        | C++                                                  |
 | ---- | ------------------------------------------------------------ | ---------------------------------------------------- |
 | 04   | [二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | [C++](./lcof/04.二维数组中的查找/Search2dArray.cpp)  |
@@ -42,4 +44,5 @@
 | 12   | [矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/) | [C++](./lcof/12.矩阵中的路径/PathInMatrix.cpp)       |
 | 13   | [机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | [C++](./lcof/13.机器人的运动范围/RobotMoveRange.cpp) |
 | 14   | [剪绳子I](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) | [C++](./lcof/14.剪绳子I/CutRopeI.cpp)                |
+| 14.2 | [剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/) | [C++](./lcof/14.剪绳子II/CuttingRope2.cpp)           |
 
