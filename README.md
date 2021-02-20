@@ -46,4 +46,5 @@
 | 13   | [机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | [C++](./lcof/13.机器人的运动范围/RobotMoveRange.cpp) |
 | 14   | [剪绳子I](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) | [C++](./lcof/14.剪绳子I/CutRopeI.cpp)                |
 | 14.2 | [剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/) | [C++](./lcof/14.剪绳子II/CuttingRope2.cpp)           |
+| 16   | [数值的整数次方](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/) | [C++](./lcof/16.数值的整数次方/NumExponent.cpp)      |
 
