@@ -8,6 +8,8 @@
 //     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
 // };
 
+// https://shubo.io/iterative-binary-tree-traversal/
+
 class Solution {
 public:
     vector<int> inorderTraversal(TreeNode* root) {
