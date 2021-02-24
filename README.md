@@ -53,6 +53,7 @@
 | 21   | [调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) | [C++](./lcof/21.调整数组顺序使奇数位于偶数前面/OddBeforeEven.cpp) |
 | 22   | [链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | [C++](./lcof/22.链表中倒数第k个节点/LastKNode.cpp)           |
 | 26   | [树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/) | [C++](./lcof/26.树的子结构/Subtree.cpp)                      |
+| 29   | [顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) | [C++](./lcof/29.顺时针打印矩阵/SpiralPrint.cpp)              |
 | 31   | [栈的压入、弹出序列](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/) | [C++](./lcof/31.栈的压入、弹出序列/ValidStackSeq.cpp)        |
 | 32   | [I. 从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/) | [C++](./lcof/32-I.从上到下打印二叉树/UpDownPrintBinaryTree.cpp) |
 
