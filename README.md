@@ -60,4 +60,5 @@
 | 33    | [二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/) | [C++](./lcof/33.二叉搜索树的后序遍历序列/BinSearchTreePostOrder.cpp) |
 | 34    | [二叉树中和为某一值的路径](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/) | [C++](./lcof/34.二叉树中和为某一值的路径/BinTreePathSum.cpp) |
 | 35    | [复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/) | [C++](./lcof/35.复杂链表的复制/CopyRandomList.cpp)           |
+| 36    | [二叉搜索树与双向链表](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/) | [C++](lcof/36.二叉搜索树与双向链表/Tree2DoublyList.cpp)      |
 
