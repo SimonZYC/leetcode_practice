@@ -36,6 +36,8 @@
 
 ## 2. 剑指Offer
 
+官方参考源代码 [link](https://github.com/zhedahht/CodingInterviewChinese2)
+
 [leetcode lcof](https://leetcode-cn.com/problemset/lcof/)
 
 | ID    | Title                                                        | C++                                                          |
@@ -61,4 +63,6 @@
 | 34    | [二叉树中和为某一值的路径](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/) | [C++](./lcof/34.二叉树中和为某一值的路径/BinTreePathSum.cpp) |
 | 35    | [复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/) | [C++](./lcof/35.复杂链表的复制/CopyRandomList.cpp)           |
 | 36    | [二叉搜索树与双向链表](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/) | [C++](lcof/36.二叉搜索树与双向链表/Tree2DoublyList.cpp)      |
+| 37    | [序列化二叉树](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/) | [C++](./lcof/37.序列化二叉树/SerializeBinTree.cpp)           |
+| 38    | [字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) | [C++](./lcof/38.字符串的排列/Permution.cpp)                  |
 
