@@ -68,4 +68,5 @@
 | 38    | [字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) | [C++](./lcof/38.字符串的排列/Permution.cpp)                  |
 | 39    | [数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/) | [C++](./lcof/39.数组中出现次数超过一半的数字/majorityElement.cpp) |
 | 40    | [最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | [C++](./lcof/40.最小的k个数/LeastKNum.cpp)                   |
+| 41    | [数据流中的中位数](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/) | [C++](./lcof/41.数据流中的中位数/MedianFinder.cpp)           |
 
