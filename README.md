@@ -31,6 +31,7 @@
 |372|[Super Pow](https://leetcode.com/problems/super-pow/)| Math | Medium | [Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/372.%20Super%20Pow/Solution.java) | [Python](https://github.com/algorhythms/LeetCode/blob/master/372%20Super%20Pow.py) | [C++](./Algorithm/cpp/372.SuperPow/SuperPow.cpp) |
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)| Array | Easy | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_448.java) | [Python](https://github.com/algorhythms/LeetCode/blob/master/448%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py) | [C++](./Algorithm/cpp/448.findAllDisappearedNum/findAllDisappearedNum.cpp)|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)| Stack | Easy | [Java](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_496.java) | [Python](https://github.com/algorhythms/LeetCode/blob/master/496%20Next%20Greater%20Element%20I.py) | [C++](./Algorithm/cpp/496.NextGreaterElementI/NextGreaterElementI.cpp) |
+|912|[Sort an Array](https://leetcode.com/problems/sort-an-array/)| Array | Medium | Java | Python | [C++](./Algorithm/cpp/912.SortanArray/Sort.cpp) |
 
 
 
@@ -65,4 +66,6 @@
 | 36    | [二叉搜索树与双向链表](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/) | [C++](lcof/36.二叉搜索树与双向链表/Tree2DoublyList.cpp)      |
 | 37    | [序列化二叉树](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/) | [C++](./lcof/37.序列化二叉树/SerializeBinTree.cpp)           |
 | 38    | [字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) | [C++](./lcof/38.字符串的排列/Permution.cpp)                  |
+| 39    | [数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/) | [C++](./lcof/39.数组中出现次数超过一半的数字/majorityElement.cpp) |
+| 40    | [最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | [C++](./lcof/40.最小的k个数/LeastKNum.cpp)                   |
 
