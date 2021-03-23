@@ -70,4 +70,6 @@
 | 39    | [数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/) | [C++](./lcof/39.数组中出现次数超过一半的数字/majorityElement.cpp) |
 | 40    | [最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | [C++](./lcof/40.最小的k个数/LeastKNum.cpp)                   |
 | 41    | [数据流中的中位数](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/) | [C++](./lcof/41.数据流中的中位数/MedianFinder.cpp)           |
+| 43    | [1～n 整数中 1 出现的次数](https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof/) | [C++](./lcof/43.1～n整数中1出现的次数/CountDigitOne.cpp)     |
+| 44    | [数字序列中某一位的数字](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/) | [C++](./lcof/44.数字序列中某一位的数字/FindNthDigit.cpp)     |
 
