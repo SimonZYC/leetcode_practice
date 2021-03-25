@@ -74,4 +74,5 @@
 | 44    | [数字序列中某一位的数字](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/) | [C++](./lcof/44.数字序列中某一位的数字/FindNthDigit.cpp)     |
 | 45    | [把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/) | [C++](./lcof/45.把数组排成最小的数/MinNum.cpp)               |
 | 46    | [把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/) | [C++](./lcof/46.把数字翻译成字符串/TranslateNum.cpp)         |
+| 47    | [礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/) | [C++](./lcof/47.礼物的最大价值/MaxValue.cpp)                 |
 
