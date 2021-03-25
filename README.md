@@ -73,4 +73,5 @@
 | 43    | [1～n 整数中 1 出现的次数](https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof/) | [C++](./lcof/43.1～n整数中1出现的次数/CountDigitOne.cpp)     |
 | 44    | [数字序列中某一位的数字](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/) | [C++](./lcof/44.数字序列中某一位的数字/FindNthDigit.cpp)     |
 | 45    | [把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/) | [C++](./lcof/45.把数组排成最小的数/MinNum.cpp)               |
+| 46    | [把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/) | [C++](./lcof/46.把数字翻译成字符串/TranslateNum.cpp)         |
 
