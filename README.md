@@ -75,4 +75,7 @@
 | 45    | [把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/) | [C++](./lcof/45.把数组排成最小的数/MinNum.cpp)               |
 | 46    | [把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/) | [C++](./lcof/46.把数字翻译成字符串/TranslateNum.cpp)         |
 | 47    | [礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/) | [C++](./lcof/47.礼物的最大价值/MaxValue.cpp)                 |
+| 48    | [最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/) | [C++](./lcof/48.最长不含重复字符的子字符串/LenLongestSubstr.cpp) |
+| 49    | [丑数](https://leetcode-cn.com/problems/chou-shu-lcof/)      | [C++](./lcof/49.丑数/NthUglyNum.cpp)                         |
+| 50    | [第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/) | [C++](./lcof/50.第一个只出现一次的字符/FirstUniqChar.cpp)    |
 
