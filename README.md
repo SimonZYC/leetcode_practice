@@ -78,4 +78,6 @@
 | 48    | [最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/) | [C++](./lcof/48.最长不含重复字符的子字符串/LenLongestSubstr.cpp) |
 | 49    | [丑数](https://leetcode-cn.com/problems/chou-shu-lcof/)      | [C++](./lcof/49.丑数/NthUglyNum.cpp)                         |
 | 50    | [第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/) | [C++](./lcof/50.第一个只出现一次的字符/FirstUniqChar.cpp)    |
+| 51    | [数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) | [C++](./lcof/51.数组中的逆序对/ReversePairs.cpp)             |
+| 52    | [两个链表的第一个公共节点](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/) | [C++](./lcof/52.两个链表的第一个公共节点/IntersectionNode.cpp) |
 
