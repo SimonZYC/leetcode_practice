@@ -80,4 +80,6 @@
 | 50    | [第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/) | [C++](./lcof/50.第一个只出现一次的字符/FirstUniqChar.cpp)    |
 | 51    | [数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) | [C++](./lcof/51.数组中的逆序对/ReversePairs.cpp)             |
 | 52    | [两个链表的第一个公共节点](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/) | [C++](./lcof/52.两个链表的第一个公共节点/IntersectionNode.cpp) |
+| 53-II | [0～n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/) | [C++](./lcof/53-II.0～n-1中缺失的数字/MissingNum.cpp)        |
+| 54    | [二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/) | [C++](./lcof/54.二叉搜索树的第k大节点/KthLargest.cpp)        |
 
