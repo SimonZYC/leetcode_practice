@@ -82,4 +82,7 @@
 | 52    | [两个链表的第一个公共节点](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/) | [C++](./lcof/52.两个链表的第一个公共节点/IntersectionNode.cpp) |
 | 53-II | [0～n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/) | [C++](./lcof/53-II.0～n-1中缺失的数字/MissingNum.cpp)        |
 | 54    | [二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/) | [C++](./lcof/54.二叉搜索树的第k大节点/KthLargest.cpp)        |
+| 55-II | [平衡二叉树](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/) | [C++](./lcof/55-II.平衡二叉树/IsBalanced.cpp)                |
+| 56-I  | [数组中数字出现的次数](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/) | [C++](./lcof/56-I.数组中数字出现的次数/SingleNumbers.cpp)    |
+| 56-II | [数组中数字出现的次数 II](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/) | [C++](./lcof/56-II.数组中数字出现的次数II/SingleNumber.cpp)  |
 
