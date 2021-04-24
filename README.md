@@ -47,6 +47,7 @@
 | 03    | [数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | [C++](./lcof/03.数组中重复的数字/RepeatNum.cpp)              |
 | 04    | [二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | [C++](./lcof/04.二维数组中的查找/Search2dArray.cpp)          |
 | 07    | [重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/) | [C++](./lcof/07.重建二叉树/RebuildBinaryTree.cpp)            |
+| 09    | [用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | [C++](./lcof/09.用两个栈实现队列/CQueue.cpp)                 |
 | 12    | [矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/) | [C++](./lcof/12.矩阵中的路径/PathInMatrix.cpp)               |
 | 13    | [机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | [C++](./lcof/13.机器人的运动范围/RobotMoveRange.cpp)         |
 | 14    | [剪绳子I](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) | [C++](./lcof/14.剪绳子I/CutRopeI.cpp)                        |
@@ -58,6 +59,7 @@
 | 22    | [链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | [C++](./lcof/22.链表中倒数第k个节点/LastKNode.cpp)           |
 | 26    | [树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/) | [C++](./lcof/26.树的子结构/Subtree.cpp)                      |
 | 29    | [顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) | [C++](./lcof/29.顺时针打印矩阵/SpiralPrint.cpp)              |
+| 30    | [包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/) | [C++](./lcof/30.包含min函数的栈/MinStack.cpp)                |
 | 31    | [栈的压入、弹出序列](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/) | [C++](./lcof/31.栈的压入、弹出序列/ValidStackSeq.cpp)        |
 | 32-I  | [I. 从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/) | [C++](./lcof/32-I.从上到下打印二叉树/UpDownPrintBinaryTree.cpp) |
 | 32-II | [II. 从上到下打印二叉树 II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/) | [C++](./lcof/32-II.从上到下打印二叉树II/UpDownPrintBinTree2.cpp) |
@@ -89,4 +91,6 @@
 | 57-II | [和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [C++](./lcof/57-II.和为s的连续正数序列/FindContSeq.cpp)      |
 | 58-I  | [翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/) | [C++](./lcof/58-I.翻转单词顺序/ReverseWords.cpp)             |
 | 58-II | [左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/) | [C++](./lcof/58-II.左旋转字符串/ReverseLeftWords.cpp)        |
+| 59-I  | [滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/) | [C++](./lcof/59-I.滑动窗口的最大值/MaxSlideWindow.cpp)       |
+| 59-II | [队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | [C++](./lcof/59-II.队列的最大值/MaxQueue.cpp)                |
 
