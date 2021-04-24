@@ -85,4 +85,8 @@
 | 55-II | [平衡二叉树](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/) | [C++](./lcof/55-II.平衡二叉树/IsBalanced.cpp)                |
 | 56-I  | [数组中数字出现的次数](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/) | [C++](./lcof/56-I.数组中数字出现的次数/SingleNumbers.cpp)    |
 | 56-II | [数组中数字出现的次数 II](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/) | [C++](./lcof/56-II.数组中数字出现的次数II/SingleNumber.cpp)  |
+| 57    | [和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/) | [C++](./lcof/57.和为s的两个数字/TwoSum.cpp)                  |
+| 57-II | [和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [C++](./lcof/57-II.和为s的连续正数序列/FindContSeq.cpp)      |
+| 58-I  | [翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/) | [C++](./lcof/58-I.翻转单词顺序/ReverseWords.cpp)             |
+| 58-II | [左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/) | [C++](./lcof/58-II.左旋转字符串/ReverseLeftWords.cpp)        |
 
