@@ -34,6 +34,27 @@ public:
         cout << endl;
         return ret;
     }
+    // divide and conquer
+    int divide(vector<int>& nums, int start, int end) {
+        if (start == end) return nums[start];
+        int mid = (start + end) >> 1;
+        int leftMax = divide(nums, start, mid), rightMax = divide(nums, mid + 1, end);
+        int leftBorderSum = nums[mid], leftMaxBorderSum = nums[mid];
+        int rightBorderSum = nums[mid + 1], rightMaxBorderSum = nums[mid + 1];
+        for (int i = mid - 1; i >= start; i--) {
+            leftBorderSum += nums[i];
+            if (leftMaxBorderSum < leftBorderSum) leftMaxBorderSum = leftBorderSum;
+        }
+        for (int i = mid + 2; i <= end; i++) {
+            rightBorderSum += nums[i];
+            if (rightMaxBorderSum < rightBorderSum) rightMaxBorderSum = rightBorderSum;
+        }
+        return max({leftMax, rightMax, leftMaxBorderSum + rightMaxBorderSum});
+    }
+    int maxSubArray(vector<int>& nums) {
+        if (nums.size() == 1) return nums[0];
+        return divide(nums, 0, nums.size() - 1);
+    }
 };
 
 int main() {

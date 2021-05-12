@@ -29,4 +29,28 @@ public:
         cur -> next = NULL;
         return head;
     }
+
+    ListNode* reverseList(ListNode* head) {
+        if (!head) return nullptr;
+        ListNode* newNode = nullptr;
+        while(!head){
+            ListNode* next = head -> next;
+            head -> next = newNode;
+            newNode = head;
+            head = next;
+        }
+        return newNode;
+        
+    }
+
+    ListNode* reverseList(ListNode* head) {
+        if (!head || !(head -> next)) {
+            return head;
+        }
+        ListNode* node = reverseList(head -> next);
+        head -> next -> next = head;
+        head -> next = nullptr;
+        return node;
+    }
+
 };
